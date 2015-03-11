@@ -1,0 +1,37 @@
+Alchemia: Kazdy eliksir to - 
+G³ówny sk³adnik
+Sk³adniki elementarne
+Wyzwalacz (wzmacnia, zmienia dzia³anie)
+Alkochol
+
+Sk³ad wiêkszoœci eliksirów:
+Proste eliksiry to: G³ówny sk³adnik i jeden sk³ el.
+Œrednie eliksity to: 
+
+
+Zielarstwo:
+
+Pó³ dawki daje +2 bez ef ubocznych
+ulepszenie zielarza poprawia do +5 -2
+
+Ogrze ziele           +4 Si³    -2 Int  
+Gobliñskie ziele       4 Zre    -2 OF
+Wilcze wiele           4 Szy    -2 Si³ U
+Korzeñ bystroœci       4 Int    -2 Szy U
+Grzyb g³êbinowy        4 OF     -2 Zmy 
+1/2 Grzyba berserkera  4 OP     -2 OM
+Seledynowy grzyb       4 OM     -2 Zrê
+Ziele zmys³ów          4 Zm     -2 OP  U
+
+Anielski dotyk        +3 ALL Stats  -6 Nastepnego dnia
+Remedium Unicuum
+Z³ote ziele Garlanda - +10 HP
+Szczaw Królewski
+Ziele lecznicze  - leczy 15 hp
+Czarny Liczeñ    - leczy zatrucia
+Królewski liczeñ - mocno usuwa trucizny
+Liœæ Agatu       - jako banda¿
+Krwawnik         - leczy krwawienie
+
+
+

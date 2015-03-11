@@ -1,0 +1,54 @@
+Karta:
+5 pkt na poziom1 max do cechy
+3 cechy maja tzw potencja³ , dodaje siê + do nazwy, 1 pkt za free,
+mozna siê uczyæ ³atwiej, szybciej pojedyñczych pkt od kogoœ lub mo¿e wzrosn¹æ samo z siebie przy czêstym uzywaniu, mo¿na uczyæ innych przy wysokim skillu
+mozna uczyæ siê bez nauczyciela, tzn eksperymenty 
+(czas), lub z ksi¹g. Cechy rzemieœlicze i walki powy¿ej 12 wymagaj¹ instruktazy by zdobyæ pkt, do 16 nie jest drogi. Do 14 mozna nadrabiaæ ksi¹¿kami. 
+
+Lvl 10 i 20 boost HP, dod skill specjalny i +1 do odpornoœci
+Cechy startowe:
+Lewe staty
+
+HP     50
+Si³a   7
+Zrê    7
+Szyb   7
+Tr    
+Obr
+Int    7
+Wiedza 7
+
+OF     7 = Kond, tura pe³nego sprintu, d³ugi bied, mocny wysi³ek/ciê¿ar zabiera 1 pkt
+OP     7
+OM/OT  7
+Zmys³y 7
+
+Kasa 
+XP
+
+
+Prawe Staty:
+
+Broñ 1H
+Broñ 2H
+Tarcza
+£uk
+Kusza
+Rzucanie
+Broñ palna
+
+Medycyna
+Przetrwanie/Myœlistwo
+Rzemios³o/Ciesielstwo
+Zielarstwo/Znajomoœc roœlin/ Wytwarzanie leków
+Alchemia
+Kowalstwo
+Rusznikarswo
+
+Otwieranie zamków
+Kradzie¿
+Pu³apki
+Skradanie
+Kamufla¿/Ukrycie
+
+
